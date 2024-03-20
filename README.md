@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YarovoyVladimir09
-- 👀 I’m interested in GameDev and Software development
+- 👀 I’m interested in Blockchain and Software development
 - 🌱 I’m currently learning Qt and Unreal Engine
 - 📫 You can reach me via mail. (vova.yarovoy.97@gmail.com) and telegram (@VladimirY09)
 
